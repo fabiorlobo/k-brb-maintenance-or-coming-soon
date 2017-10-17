@@ -1,0 +1,242 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: k-brb\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-08-21 20:51-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Fabio Lobo <contato@fabiolobo.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: template\n"
+
+#: admin/sidebar.php:15
+msgid "How it works?"
+msgstr "Como funciona?"
+
+#: admin/sidebar.php:18
+msgid "Activate BRB to put your site in maintenance mode."
+msgstr "Ative o BRB para colocar seu site no modo de manutenção."
+
+#: admin/sidebar.php:19
+msgid "Customize BRB page by changing the settings here."
+msgstr "Personalize sua página alterando as configurações aqui."
+
+#: admin/sidebar.php:20
+msgid ""
+"Do you want to reset settings to defaults? Just deactivate BRB in Plugins "
+"menu!"
+msgstr ""
+"Quer restaurar os padrões do plugin? Basta desativá-lo no menu de Plugins!"
+
+#: admin/sidebar.php:21
+msgid "Read more"
+msgstr "Saiba mais"
+
+#: admin/sidebar.php:26
+msgid "About BRB"
+msgstr "Sobre o BRB"
+
+#: admin/sidebar.php:29
+msgid "BRB was developed by"
+msgstr "BRB foi desenvolvido por"
+
+#: admin/sidebar.php:30
+msgid "If you have seen any bugs,"
+msgstr "Se você viu algum bug,"
+
+#: admin/sidebar.php:30
+msgid "please let me know!"
+msgstr "me avise!"
+
+#: admin/sidebar.php:32
+msgid "More about the author:"
+msgstr "Mais sobre o autor:"
+
+#: admin/sidebar.php:35
+msgid "Web Design & Development"
+msgstr "Design & Desenvolvimento"
+
+#: admin/sidebar.php:38
+msgid "Looking for hosting?"
+msgstr "Procurando por hospedagem?"
+
+#: k-brb.php:37 k-brb.php:38
+msgid "Maintenance / Coming Soon"
+msgstr "Manutenção / Em Breve"
+
+#: k-brb.php:56
+msgid "BRB - Maintenance / Coming Soon"
+msgstr "BRB - Manutenção / Em Breve"
+
+#: k-brb.php:104
+msgid "Activate BRB?"
+msgstr "Ativar BRB?"
+
+#: k-brb.php:105
+msgid "Who can see the site?"
+msgstr "Quem pode ver o site?"
+
+#: k-brb.php:107
+msgid "Logo upload"
+msgstr "Upload de logo"
+
+#: k-brb.php:108
+msgid "Page title"
+msgstr "Título da página"
+
+#: k-brb.php:109
+msgid "Text"
+msgstr "Texto"
+
+#: k-brb.php:111
+msgid "Facebook"
+msgstr ""
+
+#: k-brb.php:112
+msgid "Github"
+msgstr ""
+
+#: k-brb.php:113
+msgid "Google+"
+msgstr ""
+
+#: k-brb.php:114
+msgid "Instagram"
+msgstr ""
+
+#: k-brb.php:115
+msgid "LinkedIn"
+msgstr ""
+
+#: k-brb.php:116
+msgid "Twitter"
+msgstr ""
+
+#: k-brb.php:117
+msgid "YouTube"
+msgstr ""
+
+#: k-brb.php:118
+msgid "Icons style"
+msgstr "Estilo dos ícones"
+
+#: k-brb.php:120
+msgid "Background color"
+msgstr "Cor do background"
+
+#: k-brb.php:121
+msgid "Border top color"
+msgstr "Cor da borda do topo"
+
+#: k-brb.php:122
+msgid "Title color"
+msgstr "Cor do título"
+
+#: k-brb.php:123
+msgid "Text color"
+msgstr "Cor do texto"
+
+#: k-brb.php:124
+msgid "Link color"
+msgstr "Cor de links"
+
+#: k-brb.php:126
+msgid "Head code"
+msgstr "Código no Head"
+
+#: k-brb.php:127
+msgid "Body code"
+msgstr "Código no Body"
+
+#: k-brb.php:154
+msgid "Yes, enable it!"
+msgstr "Sim, ative-o!"
+
+#: k-brb.php:160
+msgid "Administrators"
+msgstr "Administradores"
+
+#: k-brb.php:161
+msgid "Editors"
+msgstr "Editores"
+
+#: k-brb.php:162
+msgid "Authors"
+msgstr "Autores"
+
+#: k-brb.php:163
+msgid "Contributors"
+msgstr "Contribuidores"
+
+#: k-brb.php:164
+msgid "Subscribers"
+msgstr "Assinantes"
+
+#: k-brb.php:172
+msgid "Your Logo"
+msgstr "Seu Logo"
+
+#: k-brb.php:178
+msgid "Upload"
+msgstr ""
+
+#: k-brb.php:180
+msgid "Remove"
+msgstr "Remover"
+
+#: k-brb.php:182
+msgid ""
+"Recommended width: 300px. If you don't use a image, BRB will show the name "
+"of your site."
+msgstr ""
+"Largura recomendada: 300px. Se você não usar uma imagem, será exibido o nome "
+"do site."
+
+#: k-brb.php:186
+msgid "Be Right Back!"
+msgstr ""
+
+#: k-brb.php:188
+msgid "Example: \"Be Right Back!\""
+msgstr "Exemplo: \"Be Right Back!\""
+
+#: k-brb.php:192
+msgid "We will be back soon!"
+msgstr "Voltaremos em breve!"
+
+#: k-brb.php:198 k-brb.php:204 k-brb.php:210 k-brb.php:216 k-brb.php:222
+#: k-brb.php:228 k-brb.php:234
+msgid "Leave it blank if you don't want to show this icon."
+msgstr "Deixe em branco se não quiser exibir este ícone."
+
+#: k-brb.php:240
+msgid "Rounded"
+msgstr "Redondos"
+
+#: k-brb.php:241
+msgid "Square"
+msgstr "Quadrados"
+
+#: k-brb.php:268
+msgid "Add html inside &lt;head&gt;&lt;/head&gt;"
+msgstr "Adicione html dentro de &lt;head&gt;&lt;/head&gt;"
+
+#: k-brb.php:274
+msgid "Add html before &lt;/body&gt;"
+msgstr "Adicione html antes do &lt;/body&gt;"

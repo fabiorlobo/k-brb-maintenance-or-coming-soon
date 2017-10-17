@@ -1,0 +1,12 @@
+body#tinymce {
+	margin: 0;
+	padding: 15px;
+}
+
+body#tinymce :first-child {
+	margin-top: 0;
+}
+
+body#tinymce :last-child {
+	margin-top: 0;
+}

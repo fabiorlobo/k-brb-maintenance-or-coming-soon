@@ -1,0 +1,20 @@
+img {
+	display: block;
+	height: auto;
+}
+
+.brb__logo-preview {
+	margin: 1px 1px 15px 1px;
+	max-width: 300px;
+}
+
+.postbox img {
+	max-width: 100%;
+}
+
+img.k {
+	display: block;
+	height: 15px;
+	margin: 0 auto;
+	width: 15px;
+}
