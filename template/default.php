@@ -73,7 +73,7 @@ function k_brb_template() {
 						
 						function k_use_icons ($icons) {
 							foreach ( $icons as $social=>$socialName ) get_option('k-brb-field-'. $social);
-						};
+						}
 
 						if ( !k_use_icons ($icons) ) echo '<ul class="brb__main__social">';
 						

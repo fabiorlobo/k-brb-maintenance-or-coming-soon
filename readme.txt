@@ -3,8 +3,8 @@ Contributors: fabiolobo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6WN27SWWCT4BC
 Tags: maintenance, private, under construction, coming soon
 Requires at least: 4.5
-Tested up to: 4.8
-Stable tag: 1.0.0
+Tested up to: 4.9.8
+Stable tag: 1.0.1
 Requires PHP: 5.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -29,7 +29,7 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-= It's possible to reset settings to defaults? =
+= Is it possible to reset settings to defaults? =
 
 Yes! Just deactivate BRB in Plugins menu.
 
@@ -40,11 +40,19 @@ Yes! Just deactivate BRB in Plugins menu.
 
 == Changelog ==
 
+= 1.0.1 =
+
+Settings link at Plugins page
+
 = 1.0.0 =
 
 Initial release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+
+Settings link at Plugins page
 
 = 1.0.0 =
 
