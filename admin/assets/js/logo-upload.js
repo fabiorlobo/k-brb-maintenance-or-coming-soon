@@ -23,7 +23,7 @@ jQuery(document).ready(function($) {
 		file_frame.open();
  });
 
-	$('.brb__upload-clear').live('click', function(e) {
+	$('.brb__upload-clear').on('click', function(e) {
 		$('.brb__upload-field').val('');
 		$('.brb__logo-preview').hide();
 		return false;

@@ -3,7 +3,7 @@
 	Plugin Name: BRB - Maintenance or Coming Soon
 	Plugin URI: https://wordpress.org/plugins/k-brb-maintenance-or-coming-soon
 	Description: BRB creates a very simple maintenance mode / coming soon page for your site.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: Fabio Lobo
 	Author URI: https://www.fabiolobo.com.br
 	Text Domain: k-brb
