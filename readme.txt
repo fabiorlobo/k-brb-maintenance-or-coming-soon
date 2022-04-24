@@ -3,7 +3,7 @@ Contributors: fabiolobo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6WN27SWWCT4BC
 Tags: maintenance, private, under construction, coming soon
 Requires at least: 4.5
-Tested up to: 5.5
+Tested up to: 5.9.3
 Stable tag: 1.0.2
 Requires PHP: 5.2
 License: GPLv2 or later
